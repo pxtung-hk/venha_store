@@ -11,8 +11,6 @@ const App = () =>{
     <>
     <Header/>
     <Body/>
-    <Slider/>
-    <Product/>
     <Footer/>
     <Footerbottom/>
     </>

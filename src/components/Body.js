@@ -1,3 +1,6 @@
+import Product from "./Product";
+import Slider from "./Slider";
+
 const Body = () =>{
 
     return(
@@ -23,8 +26,8 @@ const Body = () =>{
       </div>
       <div className="row">
         <div id="main" className="col-lg-8 col-md-12 col-sm-12">
-        <Slide/>
-          <Product/>
+        <Slider/>
+        <Product/>
         </div>
         <div id="sidebar" className="col-lg-4 col-md-12 col-sm-12">
           <div id="banner">
